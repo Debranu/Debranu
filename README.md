@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/debranulm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debranulm10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/debdyuti-das-debranulm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/debdyuti-das-debranulm10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debdyuti-das-debranulm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debdyuti-das-debranulm10" height="30" width="40" /></a>
 <a href="https://instagram.com/debranu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debranu" height="30" width="40" /></a>
 </p>
 
